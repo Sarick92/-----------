@@ -200,3 +200,10 @@ select:is(:hover, :focus) {
 
   align-items: center;
 }
+
+.student {
+  margin-bottom: 10px;
+  padding: 5px;
+  border: 1px solid #ccc;
+  width: 300px;
+}
